@@ -1,0 +1,38 @@
+<KEYWORD, int >
+<KEYWORD, main >
+<SPECIAL CHARACTER, ( >
+<SPECIAL CHARACTER, ) >
+<SPECIAL CHARACTER, { >
+<KEYWORD, int >
+<IDENTIFIER, x >
+<SPECIAL CHARACTER, , >
+<IDENTIFIER, y >
+<SPECIAL CHARACTER, ; >
+<COMMENT, // This is a single-line comment >
+<KEYWORD, if >
+<SPECIAL CHARACTER, ( >
+<IDENTIFIER, x >
+<Operator, == >
+<NUMERIC CONSTANT, 42 >
+<SPECIAL CHARACTER, ) >
+<SPECIAL CHARACTER, { >
+<COMMENT, /* This is a block comment */ >
+<IDENTIFIER, x >
+<Operator, = >
+<IDENTIFIER, x >
+<Operator, - >
+<NUMERIC CONSTANT, 3 >
+<SPECIAL CHARACTER, ; >
+<SPECIAL CHARACTER, } >
+<KEYWORD, else >
+<SPECIAL CHARACTER, { >
+<IDENTIFIER, y >
+<Operator, = >
+<NUMERIC CONSTANT, 3.1 >
+<SPECIAL CHARACTER, ; >
+<COMMENT, // Another comment >
+<SPECIAL CHARACTER, } >
+<KEYWORD, return >
+<NUMERIC CONSTANT, 0 >
+<SPECIAL CHARACTER, ; >
+<SPECIAL CHARACTER, } >
